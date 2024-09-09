@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+ #wrap {
+      width: 80%; /* 수정된 부분: 가로 크기를 100%로 설정 */
+       margin: 0 auto;
+      }
+h1 {color: green; }
+      table {  width: 100% !important;}
+      table {width: 80%; border-collapse: collapse; font-size: 12px; line-height: 24px;}
+      table td,th {border: #d3d3d3 solid 1px;  padding: 5px; }
+      
+      th {background: yellowgreen;}
+      img {width: 220px; height: 300px;}
+      a {text-decoration: none; color: black; }
+      a:HOVER {text-decoration: underline; color: green; }
